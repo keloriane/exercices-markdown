@@ -38,8 +38,8 @@ Oui, car en fonction des saisons, des fêtes, des évenements, des promotions, n
 
 ### Time-Bound
 
-*8 mois
-*Mars 2018
+*8 mois*
+*Mars 2018*
 
 
 
