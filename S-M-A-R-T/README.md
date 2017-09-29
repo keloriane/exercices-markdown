@@ -29,17 +29,21 @@
 
 ### Pertinent
 
-*l'objectif en vaut-il la peine ?* 
+*l'objectif en vaut-il la peine ?*
+
 Oui
+
 *Le moment est-il bien choisi ?* 
+
 Oui, le mois de mai est un mois de préparation pour accueillir la saison d'été
+
 *Cette vision s'accorde-t-il avec ma vision à long terme?*
+
 Oui, car en fonction des saisons, des fêtes, des évenements, des promotions, notre réputation va grandir au fil du temps, notre objectif vise bien pour une vente à long terme.
 
 ### Time-Bound
 
-*8 mois*
-*Mars 2018*
+
 
 
 
