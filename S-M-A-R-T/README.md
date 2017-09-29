@@ -5,11 +5,11 @@
 
 ### Spécifique:
 * But: Attirer les clients, se faire un chiffre d'affaire, 
-* Partager la passion
+* Partager la passion, l'expérience et des conseils.
 * les exigences:
     * Endroit propre
     * Accueil agréable
-    * En ordre
+    * Magasin en ordre
 * les limites : 
     * La date de péremption
     * changer en permanence les nouveautés
@@ -19,13 +19,14 @@
 * Aperçu du nombre de clients par jour
 * Le passage de la clientèle
 * Si le Chiffre d'affaire augmente ou diminue
+* Enregistrement des ventes
 
 ### Realisable
 
 * Avoir les marchandises
 * Décoration
-* Se faire une publicité
-* Créer des concours, des promos sur les réseaux sociaux
+* Choisir des canaux publicitaires
+* Organiser des concours, des promos sur les réseaux sociaux
 
 ### Pertinent
 
