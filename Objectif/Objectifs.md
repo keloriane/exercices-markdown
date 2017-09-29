@@ -24,8 +24,3 @@ Télémoustique
 Le Soir
 La dernière heure
 ```
-
-HTML
-<img src="lien">
-<a href="lien"> </a>
-```
